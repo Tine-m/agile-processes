@@ -1,5 +1,3 @@
-# agile-processes
-
 mindmap
  root )Hvad er<br/>Agile teams(
    definition {{Agil er en letvægts-tilgang til teamarbejde. Udspringer af det Agile Mainfest- 2001 - som er et opgør med vandfaldsprojekter. Det har udviklet sig i mange retninger/religioner siden}}
@@ -21,7 +19,7 @@ mindmap
      roles ((Roles))          
        po (Product Owner)
        team (Team)
-       master (Scrum master)
+       master (Scrum master)![image](https://github.com/user-attachments/assets/8659d0a9-1734-4695-8489-bf902d3b2493)
      
      
    
